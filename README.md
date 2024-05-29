@@ -1,4 +1,8 @@
-# intelliJ jUnit Maven template  
-jdk = 22  
-jUnit = 5.10.2  
-Maven = 4.0.0  
+# Juego Dados
+## Código Autogenerado
+
+![Código Autogenerado](CodigoAutogenerado.png)
+
+## Diagrama de Clases
+
+![Diagrama de Clases](DiagramaClases.png)
